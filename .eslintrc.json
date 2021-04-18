@@ -2,7 +2,7 @@
   "root": true,
   "parser": "@typescript-eslint/parser",
   "extends": [
-    "airbnb-typescript"
+    "airbnb-typescript/base"
   ],
   "plugins": [
     "@typescript-eslint"
