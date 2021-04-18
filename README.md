@@ -1,0 +1,1 @@
+# mega-linter-eslint-bug-example
